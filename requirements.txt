@@ -1,0 +1,13 @@
+torch
+timm
+fvcore
+torchinfo
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+torchvision
+albumentations
+pillow
+opencv-python
